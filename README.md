@@ -1,5 +1,7 @@
 # Unstructured File Processor
 
+Based on the Unstructured.io project. Follow instructions from https://docs.unstructured.io/open-source/introduction/overview to set up the Unstructured's environment. This should be set up through the requirements.txt file.
+
 ## Overview
 
 The **Unstructured File Processor** is a Python project designed to process a variety of file types, extract their content, and convert them into structured formats. It handles multiple file formats, including:
